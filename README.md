@@ -6,7 +6,6 @@ Encourage peolple to fight against corona virus.
 Give a message to the world that to win it is necessary to have a good protection and defense mechanishm
 Provide entertainment for kids, especially during the pandemic situation.
 
-== CREDIT ASSETS ==
 # Attribution - PICTURE
 
 [Plane] 
