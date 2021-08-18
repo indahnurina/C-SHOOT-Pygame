@@ -35,8 +35,11 @@ Bfxr: http://bfxr.net/
 
 # Developed by:
 Ayuneng Indah Moliani
+
 Indah Nurina Fitri Hapsari
+
 Rifka Nur Cahyani
+
 Lintang Arafah
 
 
