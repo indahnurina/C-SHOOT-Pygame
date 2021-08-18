@@ -33,4 +33,11 @@ Bfxr: http://bfxr.net/
 [Musik/ Frozen Jam] 
 <https://twitter.com/tgfcoder> licensed under CC-BY-3 <http://creativecommons.org/licenses/by/3.0/>
 
+# Developed by:
+Ayuneng Indah Moliani
+Indah Nurina Fitri Hapsari
+Rifka Nur Cahyani
+Lintang Arafah
+
+
 
