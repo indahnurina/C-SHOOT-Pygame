@@ -21,10 +21,10 @@ Provide entertainment for kids, especially during the pandemic situation.
 Kenney Space Shooter Pack: https://opengameart.org/content/space-shooter-redux
 
 [Sonic Explosion]
-https://www.youtube.com/watch?v=G5-4nV6LxgU&list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw&index=14
+https://www.kenney.nl/assets
 
 [Regular explosion]
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2wzYk11YUxSN014S0tWckROb1BQbVF0dVBtQXxBQ3Jtc0tudld4THczeVlrcks2RFlyUXBzdkZLbzVjdUFNeWRSd18zSEdMX0djaFBabGJ2dnVNNldpYmI5b3NLckpydDBwMHFtWVFDQTVLSUNpaUpYX3RYU2diai1PaXVVWHpPeFNnejBGOWVnUVpuTGthX0xfNA&q=http%3A%2F%2Fkidscancode.org%2Fblog%2Fimg%2FExplosions_kenney.zip
+https://www.kenney.nl/assets
 
 # Attribution - SOUNDS
 [pshield, ppower, pew]
